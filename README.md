@@ -36,7 +36,7 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
    - Execute no terminal: `npm install bip39 bip32@2.0.6 bitcoinjs-lib --save`.
 
 4. **Navegue para a Pasta Correta**
-   - Certifique-se de estar na pasta principal do projeto, chamada **Gerador de Carteiras**.
+   - Certifique-se de estar na pasta principal do projeto.
    - Acesse a pasta `src` onde o arquivo `createWallet.js` está localizado, executando `cd .\src`.
 
 5. **Gere as Carteiras**
