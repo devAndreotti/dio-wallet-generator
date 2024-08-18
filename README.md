@@ -41,3 +41,9 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
 
 5. **Gere as Carteiras**
    - Dentro da pasta `src`, execute o script para gerar as carteiras com o comando: `node createWallet.js`.
+
+Entendi! Aqui está o parágrafo "About" com a nota incluída:
+
+**Nota:**
+
+Este projeto é para fins educacionais, feito para o desafio da DIO. Sinta-se livre para explorar e adaptar.
