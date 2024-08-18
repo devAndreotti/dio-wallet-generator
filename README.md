@@ -1,4 +1,4 @@
-# Desafio DIO: Gerador de Carteiras de Bitcoin
+# Desafio DIO: Gerador de Carteiras
 
 <div align="center">
   <img src="https://wallpapers.com/images/featured/bitcoin-wnjw4r5olqgfwh9r.jpg" alt="Bitcoin Wallpaper" width="800" height="500"/>
