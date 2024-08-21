@@ -45,4 +45,4 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
 
 ## Nota
 
-Este projeto é para fins educacionais, feito para o desafio da DIO. Sinta-se livre para explorar e adaptar.
+Este projeto é para fins educacionais, feito para o desafio da **DIO**. Sinta-se livre para explorar e adaptar.
