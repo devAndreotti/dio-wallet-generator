@@ -2,7 +2,7 @@
 # Desafio DIO: Gerador de Carteiras
 
 <div align="center">
-  <img src="https://wallpapers.com/images/featured/bitcoin-wnjw4r5olqgfwh9r.jpg" alt="Bitcoin Wallpaper"/>
+  <img src="Thumb.jfif" alt="Bitcoin Wallpaper"/>
 </div>
 
 ## Objetivo do Projeto
