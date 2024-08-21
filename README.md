@@ -1,7 +1,8 @@
+<!-- Projeto Finalizado -->
 # Desafio DIO: Gerador de Carteiras
 
 <div align="center">
-  <img src="https://wallpapers.com/images/featured/bitcoin-wnjw4r5olqgfwh9r.jpg" alt="Bitcoin Wallpaper" width="800" height="500"/>
+  <img src="https://wallpapers.com/images/featured/bitcoin-wnjw4r5olqgfwh9r.jpg" alt="Bitcoin Wallpaper"/>
 </div>
 
 ## Objetivo do Projeto
@@ -41,8 +42,6 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
 
 5. **Gere as Carteiras**
    - Dentro da pasta `src`, execute o script para gerar as carteiras com o comando: `node createWallet.js`.
-
-Entendi! Aqui está o parágrafo "About" com a nota incluída:
 
 ## Nota
 
