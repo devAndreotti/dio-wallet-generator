@@ -1,6 +1,15 @@
 <!-- Projeto Finalizado -->
 # Desafio DIO: Gerador de Carteiras
 
+<p align="center">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/dio-wallet-generator?color=FFF&labelColor=71252f&style=flat-square">
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/dio-wallet-generator?color=FFF&labelColor=71252f&style=flat-square">
+  <!-- Último commit no GitHub -->
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/devAndreotti/dio-wallet-generator?color=FFF&labelColor=71252f&style=flat-square">
+</p>
+
 <div align="center">
   <img src="Thumb.jfif" alt="Bitcoin Banner"/>
 </div>
