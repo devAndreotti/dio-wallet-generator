@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Desafio DIO: Gerador de Carteiras
+# 💼 Desafio DIO: Gerador de Carteiras
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
