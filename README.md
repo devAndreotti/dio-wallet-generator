@@ -14,7 +14,7 @@
   <img src="Thumb.jfif" alt="Bitcoin Banner"/>
 </div>
 
-## Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fictício, sem valor real), capaz de gerar pares de chaves públicas e privadas. O objetivo é:
 
@@ -22,18 +22,18 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
 - Importar essas carteiras para um software gerenciador.
 - Testar transações de envio e recebimento de bitcoins utilizando uma faucet.
 
-## Tecnologias Empregadas
+## 🛠 Tecnologias Empregadas
 
 - **JavaScript / Node.js**: Usado para construir o gerador de carteiras.
 - **Electrum Bitcoin Wallet**: Ferramenta para gerenciar as carteiras geradas.
 - **Bitcoin Faucet**: Utilizado para realizar transações de teste com bitcoins fictícios.
 
-## Recursos Úteis
+## 📚 Recursos Úteis
 
 - [Baixar Electrum Bitcoin Wallet](https://electrum.org/#download)
 - [Obtenha bitcoins fictícios aqui](https://bitcoinfaucet.uo1.net)
 
-## Guia de Implementação
+## 🧭 Guia de Implementação
 
 1. **Certifique-se que Node.js Está Instalado**
    - No terminal, execute `node -v` para verificar a instalação do Node.js. Se necessário, [baixe e instale o Node.js](https://nodejs.org/).
@@ -52,6 +52,6 @@ Este desafio consiste na criação de um **Gerador de Carteiras de Bitcoin** (fi
 5. **Gere as Carteiras**
    - Dentro da pasta `src`, execute o script para gerar as carteiras com o comando: `node createWallet.js`.
 
-## Nota
+## 📝 Nota
 
 Este projeto é para fins educacionais, feito para o desafio da **DIO**. Sinta-se livre para explorar e adaptar.
